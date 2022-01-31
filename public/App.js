@@ -8,7 +8,7 @@ const element = React.createElement(
 		{ className: "border" },
 		NAME
 	),
-	React.createElement("img", { className: "border", src: "https://static-beautyhigh.stylecaster.com/2014/05/477973067.jpg", width: "300px" }),
+	React.createElement("img", { className: "border", src: "https://drive.google.com/file/d/1iRBYtk77AfxhBgsD0tDtIIMoyIw-vh3r/view?usp=sharing", width: "300px" }),
 	React.createElement(
 		"p",
 		null,
